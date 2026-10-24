@@ -1,6 +1,6 @@
 <img width="768" height="1376" alt="MotionStudio" src="https://github.com/user-attachments/assets/22eb0dfd-e4a5-4907-b3e5-142f7eadc7fd" />
 
-🐉 Morphs Motion Studio v3.86
+🐉 Morphs Motion Studio 
 
 Next-Gen 4D Multi-Tier Parallax, Fast AI Scene Studio & Offline Video Compositor
 
